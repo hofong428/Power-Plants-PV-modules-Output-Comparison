@@ -14,8 +14,9 @@ Then the Dc Power is transfered to the Inverters which converts it into Ac Power
 
 **Each solar power plant consists at least of two components:**  
 - Modules-that convert sunlight into electricity.  
-- One or more inverters-devices that convert direct current(DC) into alternating current(AC).  
-** The factors that determine the performance of a solar power plant:  
+- One or more inverters-devices that convert direct current(DC) into alternating current(AC).    
+
+**The factors that determine the performance of a solar power plant:**  
 - Temperature
 - Dirtiness
 - Inverters Efficiency
