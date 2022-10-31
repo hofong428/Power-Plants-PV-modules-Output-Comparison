@@ -26,5 +26,5 @@ Then the Dc Power is transfered to the Inverters which converts it into Ac Power
 - Can we identify faulty or suboptimally performing equipment?
 - Can we predict the power generation for next couple of days? - this allows for better grid management
 
-**Dataset Statement**
+**Dataset Statement**  
 The dataset is revised from the kaggle competition
